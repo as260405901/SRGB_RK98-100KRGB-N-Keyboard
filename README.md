@@ -5,7 +5,7 @@
 
 #### 安装教程
 将 Royal Kludge RK98-100KRGB N.js 文件保存到 SignalRGB 的 User Directory 中。默认情况下，保存到如下路径中：
-C:\Users\[YOUR USERNAME]\Documents\WhirlwindFX\Plugins
+C:\Users\\[YOUR USERNAME]\Documents\WhirlwindFX\Plugins
 
 #### 键盘型号
 打开官方驱动，RK**Keyboard就是你的键盘型号。
