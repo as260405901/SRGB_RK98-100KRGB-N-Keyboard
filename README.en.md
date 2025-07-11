@@ -5,7 +5,7 @@ A plugin to add SignalRGB compatibility for the Royal Kludge RK98-100KRGB N Keyb
 
 #### Installation
 Save the Royal Kludge RK98-100KRGB N.js file to SignalRGB User Directory. By default, it should be saved in the following path:
-C:\Users\[YOUR USERNAME]\Documents\WhirlwindFX\Plugins
+C:\Users\\[YOUR USERNAME]\Documents\WhirlwindFX\Plugins
 
 #### Keyboard Model
 Open the official driver, and RK**Keyboard (your keyboard model) should appear.
